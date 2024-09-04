@@ -1,3 +1,4 @@
+![abc](https://github.com/user-attachments/assets/15c6392e-5825-4138-9fc6-cb20b292ebb0)
 # SalesAnalysis_SQL_PowerBI
 
 ### Setup
@@ -33,6 +34,8 @@
 - Pivot Table
 
 ### Dashboard
+
+![abc](https://github.com/user-attachments/assets/35742b7b-1182-4589-82dd-4397fba2d808)
 
 
 - [See a screenshot](https://github.com/AsifRashid01/SalesAnalysis_SQL_PowerBI/blob/main/Sales%20Report.pdf) of the Dashboard in pdf.
